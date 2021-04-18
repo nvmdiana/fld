@@ -7,5 +7,6 @@ int main()
 	scanf("%s",s);
 	printf("Hello %s!", &s);
 	printf("Theo");
+	printf("Apo");
 	return 0;
 }
